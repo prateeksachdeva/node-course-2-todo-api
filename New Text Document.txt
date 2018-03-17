@@ -1,2 +1,4 @@
 mongodb robot mongo
 C:\Program Files\MongoDB\Server\3.6\bin>mongod.exe --dbpath \Users\prateek\mongo-data
+const {MongoClient,ObjectID}=require('mongodb');//object  distructure
+mongoose//object relational mapping use validate
